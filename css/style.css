@@ -9,7 +9,6 @@ body {
 }
 
 .content {
-    display: flex;
     padding: 10px 105px;
 }
 
@@ -22,6 +21,7 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 0 50px;
 }
 
 .post {
@@ -46,7 +46,7 @@ a {
 
 header {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 50px;
 }
 
 header h1 {
@@ -104,7 +104,7 @@ footer {
     width: 200px;
     height: 60px;
     box-shadow: 1px 1px 3px black;
-}
+}  
 
 
 
